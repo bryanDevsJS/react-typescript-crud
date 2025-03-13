@@ -1,7 +1,5 @@
 # crud-react-mysql / 
-``bash
-Exercise from : https://youtu.be/y5NvOade3sk?si=O-ac9lcU091EAwoc
-``
+`React CRUD TypeScript "Oh doh"`
 An exercise of react js with managing mysql database.
 
 1. create folder frontEnd - npm create vite@latest
